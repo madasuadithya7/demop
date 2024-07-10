@@ -1,18 +1,1 @@
-sword and spear
-<<<<<<< HEAD
-wall of shields
-who are you 
-why for you
-<<<<<<< HEAD
- abcdefg 
-hijklmnop
 
-kklklklklklklkl
-=======
-
-i am adithya 
-who are you
->>>>>>> 2af733d51fdcfd56980c06b5f7c1913107d660e1
-=======
-wall of shields
->>>>>>> parent of 471c694 (added two more lines to it)
